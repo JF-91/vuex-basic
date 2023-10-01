@@ -1,0 +1,1 @@
+export const doubleCount = (state) => state.count * 2
